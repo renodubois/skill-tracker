@@ -9,7 +9,7 @@ export default class Leaderboard extends Component {
           <h1 className='App-title'>SkillTracker</h1>
         </header>
         <p className='App-intro'>
-          Sample text, woo!
+          The Leaderboard
         </p>
       </div>
     )
